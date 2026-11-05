@@ -16297,6 +16297,20 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Local push-to-talk dictation where one fine-tuned Qwen3-ASR model transcribes and cleans up speech, then pastes the text at the cursor (Apple silicon).",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/SameRainbows/typd-app",
+            "title": "Typd",
+            "icon_url": "https://raw.githubusercontent.com/SameRainbows/typd-app/HEAD/assets/typd.png",
+            "screenshots": [],
+            "official_site": "https://typd.mehmetdedeler.com",
+            "languages": [
+                "javascript"
+            ]
         }
     ]
 }
